@@ -21,7 +21,7 @@ Users can add, edit, and delete tasks through an interactive interface.
 
 ## 📸 Screenshots
 
-<img width="1919" height="1065" alt="image" src="https://github.com/user-attachments/assets/737bb451-f1c9-43dd-a026-dda0cfce6ad1" />
+<img width="1919" height="1067" alt="image" src="https://github.com/user-attachments/assets/45c113fb-32ee-45ad-99ea-999156ac5ae3" />
 
 ---
 
